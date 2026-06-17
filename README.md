@@ -317,15 +317,4 @@ E-Commerce_Sales_Analytics_Pipeline
 
 ---
 
-## Future Enhancements
-
-* Apache Airflow for workflow orchestration
-* Apache Spark for distributed processing
-* AWS Cloud Deployment
-* Real-Time Data Ingestion
-* Automated Data Quality Monitoring
-* CI/CD Pipeline Integration
-
----
-
 This is the Beginner level project of Data Engineering/Data Analytics
